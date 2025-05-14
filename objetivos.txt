@@ -1,2 +1,3 @@
 Aprender Angular
 Aprender Node
+Sentirme con confianza para testear y para desplegar
